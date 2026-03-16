@@ -1,4 +1,4 @@
-cat("===== ANALISE ESTATISTICA FARMTECH =====\n")
+cat("==== ANALISE ESTATISTICA FARMTECH ====\n")
 
 dados <- read.csv("dados_lavoura.csv")
 
